@@ -5,4 +5,3 @@ Main branch content
 =======
 Conflict branch content
 >>>>>>> conflict-branch
-This is a bad change that we'll revert
